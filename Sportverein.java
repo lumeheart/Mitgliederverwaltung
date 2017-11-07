@@ -1,5 +1,5 @@
 /**
-* hallo
+* 
 */
 public class Sportverein 
 {
@@ -9,7 +9,6 @@ public class Sportverein
   /** @return liefert mitglieder 
 */
   public int gibMitglieder(){
-    //TODO gegebenenfalls ueberarbeiten
     return this.mitglieder;
   }
 
@@ -17,7 +16,6 @@ public class Sportverein
 * @param pMitglieder Integer
 */
   public void setzeMitglieder(int  pMitglieder){
-    //TODO gegebenenfalls ueberarbeiten
     this.mitglieder = pMitglieder;
   }
 
