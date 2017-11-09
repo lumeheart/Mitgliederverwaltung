@@ -1,5 +1,5 @@
 /**
-*
+* In dieser Klasse werden die Attribute der Mitglieder definiert.
 */
 public abstract class Mitglied 
 {
